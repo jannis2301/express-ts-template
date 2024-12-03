@@ -1,0 +1,1 @@
+{ "exec": "tsx", "ext": "ts", "ignore": ["node_modules"] }
